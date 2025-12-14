@@ -33,9 +33,7 @@ Universities and training centers faced challenges such as:
 - **Frontend:** Bootstrap 5, HTML5, CSS3, JS  
 - **Design Patterns:** MVC, Repository Pattern, SOLID Principles  
 - **Deployment / Hosting:** Windows Server / IIS  
-
-> ![Architecture Diagram](diagrams/architecture.png)  
-> *Placeholder for system architecture diagram*
+ 
 
 ---
 
