@@ -68,5 +68,5 @@ Source code is proprietary; details can be discussed with interested parties.
 ---
 
 ## Contact
-📧 ahmedbarakatsamra@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/ahmed-barakat-dev)
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-barakat-8b7b9922/)  
+🔗 [GitHub](https://github.com/ahmedbarkat)
